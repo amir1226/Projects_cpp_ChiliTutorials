@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\amir\documents\c++\chili\proyecto_snake\chili framework 2016\engine\game.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Engine.vcxproj -> C:\Users\Amir\Documents\c++\Chili\Proyecto_Snake\Chili Framework 2016\x64\Debug\Engine.exe
